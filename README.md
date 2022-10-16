@@ -1,0 +1,3 @@
+- 👋 Selam, ben @MerveCandemirOrhan
+- 👀 Phyton Proglama ile ilgileniyorum..
+- 🌱 C# üzerinde 2 yıl çalıştım..
