@@ -1,3 +1,3 @@
 - 👋 Selam, ben @MerveCandemirOrhan
 - 👀 Phyton Proglama ile ilgileniyorum..
-- 🌱 C# üzerinde 2 yıl çalıştım..
+- 🌱 C#,Python üzerinde 3 yıl çalıştım..
