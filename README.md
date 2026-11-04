@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="./Kodla,%20Öğren,%20İnşa%20Et,%20Geliş.png" width="100%" />
+
+</div>
+
 ## 👩‍💻 
 
 Hi there! I'm a Computer Engineer passionate about building meaningful software and exploring the endless possibilities of technology.
