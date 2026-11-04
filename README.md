@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="./Kodla,%20Öğren,%20İnşa%20Et,%20Geliş.png" width="100%" />
-
+  <img src="./Kodla%2C%20%C3%96%C4%9Fren%2C%20%C4%B0n%C5%9Fa%20Et%2C%20Geli%C5%9F.png" width="100%" />
 </div>
 
 ## 👩‍💻 
