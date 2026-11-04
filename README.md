@@ -1,10 +1,7 @@
-<p align="center">
-  <img src="./banner.png" width="100%" alt="Merve Orhan Developer Banner">
-</p>
 # 👩‍💻 Merve Orhan
 
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Merve Orhan Developer Banner">
+  <img src="./merve-github-banner.png" width="100%" alt="Merve Orhan Developer Banner">
 </p>
 
 <h3 align="center">💻 Computer Engineer | Python Developer | AI Enthusiast</h3>
