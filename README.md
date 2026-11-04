@@ -1,4 +1,4 @@
-## 👩‍💻 About Me
+## 👩‍💻 
 
 Hi there! I'm a Computer Engineer passionate about building meaningful software and exploring the endless possibilities of technology.
 
