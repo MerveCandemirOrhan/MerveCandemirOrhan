@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="./merve-github-banner.png" width="100%" />
-</div>
+![Merve Orhan - Developer](merve-github-banner.png)
 
 ## 👩‍💻 
 
